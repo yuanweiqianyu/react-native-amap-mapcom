@@ -1,0 +1,47 @@
+{
+  "name": "react-native-amapallcom",
+  "title": "React Native Amapallcom",
+  "version": "0.0.1",
+  "description": "高德地图的RN封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanweiqianyu/react-native-amap-mapcom.git",
+    "baseUrl": "https://github.com/yuanweiqianyu/react-native-amap-mapcom"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "amap"
+  ],
+  "author": {
+    "name": "panzhenzhen",
+    "email": "1924636612@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanweiqianyu/react-native-amap-mapcom/issues",
+    "email": "1924636612@qq.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+
+    "react": "16.2.0",
+    "react-native": "^0.52.0",
+    "react-native-windows": "0.52.0"
+
+  },
+  "devDependencies": {
+
+    "react": "16.2.0",
+    "react-native": "^0.52.0",
+    "react-native-windows": "0.52.0"
+
+  }
+}
+
+
